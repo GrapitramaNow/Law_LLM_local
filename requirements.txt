@@ -1,0 +1,13 @@
+sentencepiece
+transformers
+torch
+streamlit
+pymongo
+bcrypt
+pythainlp
+pandas
+langchain
+langchain-community
+numpy
+sentence-transformers
+accelerate
