@@ -70,7 +70,7 @@ def get_tokenizer_and_model():
 tokenizer, model = get_tokenizer_and_model()
 
 # MongoDB Atlas Connection
-MONGO_URI = "mongodb+srv://witsawadaochui:aGTd8WWVkzpxXaC5@project0.9uela.mongodb.net/?retryWrites=true&w=majority&appName=Project0"
+MONGO_URI = "Your Monmgo URL"
 try:
     client = pymongo.MongoClient(MONGO_URI)
     db = client["law_database"]
